@@ -16,5 +16,4 @@ person.previousJob = 'Accountant';
 
 console.log(`The person's previous job is: ${person.previousJob}`);
 
-console.log(person)
-;
+console.log(person);
